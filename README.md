@@ -1,2 +1,2 @@
-# k8
-About Kubernetes.
+# K8's
+All about Kubernetes.
