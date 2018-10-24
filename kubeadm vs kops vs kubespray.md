@@ -62,5 +62,5 @@ These tools allow to build and configure `k8's` cluster up and running in a simp
         Bare Metal
     
     _Recommended Usage:_
-        Spin Vm's using `Terraform`
+        Spin Vm's using `Terraform`.
         Apply the `kubespray` via `Ansible Playbook`
