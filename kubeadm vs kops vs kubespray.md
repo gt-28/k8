@@ -64,3 +64,6 @@ These tools allow to build and configure `k8's` cluster up and running in a simp
     _Recommended Usage:_
         Spin Vm's using `Terraform`.
         Apply the `kubespray` via `Ansible Playbook`
+       
+ **Note:** 
+    Kubespray is under `Active Development`, make sure to use `Stable Release`.
